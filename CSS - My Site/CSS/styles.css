@@ -1,0 +1,86 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  color: #F1DDBF;
+  font-family: 'Merriweather Sans', serif;
+}
+
+h1{
+
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #92BA92;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #92BA90;
+}
+
+div{
+  background-color: #525E75;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  padding-top: 100px;
+  position: relative;
+  left: 200px;
+}
+
+.pic{
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #78938A;
+  margin-top: 20px;
+}
+
+.twitter{
+  width: 35px;
+}
+
+.linkedin{
+  width: 35px;
+}
+
+.facebook{
+  width: 35px;
+}
+
+.soundcloud{
+  width: 35px;
+}
+
+.youtube{
+  width: 35px;
+}
+
+.bottom-container{
+  word-spacing: 15px;
+}
+
+.mail{
+  width: 50px;
+  padding-bottom: 10px;
+}
+
+.skills{
+  width: 50px;
+}
+
+.music{
+  width: 50px;
+}
+
+.co{
+  color: #8FBDD3;
+}
